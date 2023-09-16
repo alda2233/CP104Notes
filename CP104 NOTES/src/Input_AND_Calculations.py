@@ -69,6 +69,3 @@ print(f"va1 % va2 -> {var1} % {var2} -> {answer}")
 
 answer = var1 ** var2
 print(f"va1 ** va2 -> {var1} ** {var2} -> {answer}")  # ** means exponentiation
-
-
-BYYYY
